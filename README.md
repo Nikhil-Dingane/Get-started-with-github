@@ -4,8 +4,8 @@ To understand the GitHub, you must first have an understanding of Git.Git is an 
 So git is version control system, but what does it mean that?When developers create something (an app, for example), they make constant changes to the code, releasing new versions up to and after the first official release. Version control systems keeps tracks of these changes. Hence we can easily revert changes to previous state whenever we want.
 Git is not only useful for developers but others also can use it if they found git useful for them. For example, if you have a team, that is constantly making changes to a document file then you can use the git as a VCS.
 
-**The GitHub :**
-    As we know git is the version control system, there are also so many options are available. So, what makes GitHub special? Git is a command-line tool, but the center around which all things involving Git revolve is the hub ir.e GitHub.com,  where developers store their projects.
+## The GitHub :
+   As we know git is the version control system, there are also so many options are available. So, what makes GitHub special? Git is a command-line tool, but the center around which all things involving Git revolve is the hub ir.e GitHub.com,  where developers store their projects.
     To know furher more about the GitHub, we should know some important terms related to the GitHub. I will give a short introduction about that terms.
     
 * Repository:
