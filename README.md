@@ -24,4 +24,4 @@ This is the location where we keep or host our project. Sometimes GitHub users c
  * Branch:
   We can work on multiple versions of file or set of files(project) on the same time.git is version control system, hence automatically keeps the snapshots of each commits(in case of git changes are called as commit). Hence we need not keep multiple folders of different versions. All of this is handled by the git. We can also revert the changes made in file or set of files. Where is each branch is indepenent to each other if changes are made into a one branch it does not affect to other branch until we merge them. This is the most important feature of git by which we can work in collabroation.
   
-   This was the short intro about the what is the git and what is the GitHub.
+   This was the short intro about the what is the git and what is the GitHub. 
